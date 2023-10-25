@@ -1,5 +1,5 @@
 ## Description
-### This is a card template which you can use in different websites.
+This is a card template which you can use in different websites.
 ## How to Contribute?
 - Fork the Repo create a branch for any issue that you are working on and commit your work.
 - At first raise an issue in which you want to work
