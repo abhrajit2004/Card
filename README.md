@@ -15,3 +15,15 @@ This is a card template which you can use in different websites.
 <img src="https://contrib.rocks/image?repo=abhrajit2004/Card" />
 </a>
 <div align="center">
+
+## Project Admin
+
+<table>
+<tr>
+<td align="center"><a href="https://github.com/Ananta2545"><img src="https://media.licdn.com/dms/image/D4D35AQF2kembjmofdA/profile-framedphoto-shrink_800_800/0/1689145575173?e=1698912000&v=beta&t=FhyiXJ7DJqbTaCEIQ8Pm_kZRhUbM4uTB4O2JRXciXb8" width=150px height=150px /></a></br> <h4 style="color:red;">Ananta Chatterjee</h4>
+<a href=""><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a>
+   </td>
+
+</tr>
+</table>
+</div>
